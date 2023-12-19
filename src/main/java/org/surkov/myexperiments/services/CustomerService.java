@@ -2,7 +2,7 @@ package org.surkov.myexperiments.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.surkov.myexperiments.Entity.Customer;
+import org.surkov.myexperiments.entity.Customer;
 import org.surkov.myexperiments.repository.CustomerRepository;
 import org.surkov.myexperiments.utils.CustomResponse;
 import org.surkov.myexperiments.utils.CustomStatus;

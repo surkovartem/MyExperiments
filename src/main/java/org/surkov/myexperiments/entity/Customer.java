@@ -1,7 +1,6 @@
-package org.surkov.myexperiments.Entity;
+package org.surkov.myexperiments.entity;
 
 import jakarta.persistence.*;
-import lombok.Builder;
 import lombok.Data;
 import lombok.experimental.FieldNameConstants;
 

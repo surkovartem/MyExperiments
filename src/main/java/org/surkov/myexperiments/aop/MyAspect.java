@@ -6,7 +6,7 @@ import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.springframework.stereotype.Component;
-import org.surkov.myexperiments.Entity.Customer;
+import org.surkov.myexperiments.entity.Customer;
 import org.surkov.myexperiments.utils.CustomResponse;
 import org.surkov.myexperiments.utils.CustomStatus;
 

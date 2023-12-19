@@ -1,7 +1,7 @@
 package org.surkov.myexperiments.controllers.interfaces;
 
 import org.springframework.web.bind.annotation.*;
-import org.surkov.myexperiments.Entity.Customer;
+import org.surkov.myexperiments.entity.Customer;
 import org.surkov.myexperiments.utils.CustomResponse;
 
 @RequestMapping("/api")

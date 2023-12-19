@@ -3,7 +3,7 @@ package org.surkov.myexperiments.controllers;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import org.surkov.myexperiments.Entity.Customer;
+import org.surkov.myexperiments.entity.Customer;
 import org.surkov.myexperiments.controllers.interfaces.CustomerСontrollerOperation;
 import org.surkov.myexperiments.repository.CustomerRepository;
 import org.surkov.myexperiments.services.CustomerService;
